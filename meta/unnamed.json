@@ -1,0 +1,13 @@
+{
+  "name": "███",
+  "symbol": "███",
+  "description": "GTA 6's currency has no name yet. Neither does this coin. Name, ticker and image update on release day, then lock. The 1% tax can never change: 100% of it buys back and burns the coin, enforced by an immutable on-chain program.",
+  "image": "https://raw.githubusercontent.com/unnamedsol/unnamed/main/meta/unnamed.png",
+  "showName": true,
+  "website": "https://github.com/unnamedsol/unnamed",
+  "extensions": {
+    "twitter": "https://x.com/unnamedsol_/status/2121154271693418642",
+    "website": "https://github.com/unnamedsol/unnamed"
+  },
+  "twitter": "https://x.com/unnamedsol_/status/2121154271693418642"
+}
